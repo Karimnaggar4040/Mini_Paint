@@ -1,0 +1,101 @@
+.label{
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+}
+.selectShapeLabel
+{
+    -fx-font-size: 16px;
+}
+.color-picker{
+    -fx-text-fill: black;
+}
+.add-label{
+    -fx-font-size: 12px;
+}
+.color-picker{
+    -fx-font-size: 12px;
+}
+.hbox{
+    -fx-padding: 0 0 0 100;
+}
+.label{
+    -fx-background-color: Transparent;
+    -fx-background-radius: 15;
+    -fx-border-color: Transparent;
+    -fx-border-radius: 15;
+    -fx-text-fill: #f7f7f2;
+    -fx-font-weight: bold;
+}
+.spinner{
+    -fx-editable: true;
+}
+.root{
+    -fx-background-color: #222831;
+}
+.button{
+    -fx-background-color: Transparent;
+    -fx-background-radius: 15;
+    -fx-border-color: #76ABAE;
+    -fx-border-radius: 15;
+    -fx-text-fill: White;
+    -fx-font-weight: bold;
+}
+.button:hover{
+    -fx-scale-x: 1.2;
+    -fx-scale-y: 1.2;
+    -fx-background-color: #76ABAE;
+    -fx-font-size: 12;
+    -fx-border-radius: 15;
+    -fx-background-radius: 15;
+    -fx-border-color: #f3f3f3f3;
+}
+.color-picker {
+    -fx-background-color: transparent;
+    -fx-border-color: #76ABAE;
+    -fx-border-radius: 10;
+    -fx-padding: 5;
+}
+.color-picker .color-picker-button {
+    -fx-background-color: #76ABAE;
+    -fx-text-fill: white;
+    -fx-border-radius: 8;
+}
+.color-picker .text-field {
+    -fx-background-color: #f1f1f1;
+    -fx-text-fill: #333333;
+    -fx-border-color: #76ABAE;
+    -fx-border-radius: 8;
+}
+.color-picker .color-spectrum .color-bar {
+    -fx-background-color: #76ABAE;
+}
+.combo-box{
+    -fx-background-color: #76ABAE;
+    -fx-background-radius: 15;
+    -fx-border-color: #f3f3f3;
+    -fx-border-radius: 15;
+    -fx-text-fill: white;
+}
+
+.combo-box:hover{
+    -fx-scale-x: 1.2;
+    -fx-scale-y: 1.2;
+    -fx-background-color: #76ABAE;
+    -fx-font-size: 12;
+    -fx-border-radius: 15;
+    -fx-background-radius: 15;
+    -fx-border-color: #f3f3f3;
+    -fx-font-weight: bold;
+}
+.combo-box .combo-box-popup .list-cell {
+    -fx-text-fill: #333333;
+}
+.combo-box .combo-box-popup .list-cell:hover {
+    -fx-background-color: #76ABAE;
+    -fx-text-fill: white;
+}
+.combo-box .arrow {
+    -fx-background-color: #333333;
+    -fx-text-fill: white;
+}
+
